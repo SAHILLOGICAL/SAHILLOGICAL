@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAHILLOGICAL
-- 👀 I’m interested in Web Development,Competitive Programming and Animation
-- 🌱 I’m currently learning HTML,CSS,JS,C
+- 👀 I’m interested in Web Development, App development, and Animation
+- 🌱 I’m currently learning HTML, CSS, JS, C, React-native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
